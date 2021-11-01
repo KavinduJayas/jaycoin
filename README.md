@@ -1,0 +1,2 @@
+# jaycoin
+My own cryptocurrency 
